@@ -1,0 +1,7 @@
+# Default configuration for Distributed Orchestration Platform
+agent:
+  name: my-agent
+  capabilities: ["task1", "task2"]
+coordinator:
+  name: my-coordinator
+  tasks: ["task1", "task2"]
