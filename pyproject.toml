@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "distributed-orchestration-platform"
+description = "A distributed multi-agent orchestration framework for complex tasks"
+version = "1.0.0"
+authors = ["Your Name <your-email@example.com>"]
+[tool.poetry.dependencies]
+python = "^3.9"
+pip = "^21.2.4"
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.5"
