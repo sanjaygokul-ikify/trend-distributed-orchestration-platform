@@ -1,0 +1,7 @@
+# Docker Compose file for Distributed Orchestration Platform
+version: '3'
+services:
+  platform:
+    build: .
+    ports:
+      - "8080:8080"
